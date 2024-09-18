@@ -1,6 +1,8 @@
 # Aligning Phi-2 with Anchored Preference Optimization
 
-https://huggingface.co/rasyosef/phi-2-instruct-apo
+- Model: https://huggingface.co/rasyosef/phi-2-instruct-apo
+
+- Code: [Phi_2_APO_LoRA.ipynb](https://github.com/rasyosef/phi-2-apo/blob/main/notebooks/Phi_2_APO_LoRA.ipynb)
 
 # Phi-2-Instruct-APO
 
